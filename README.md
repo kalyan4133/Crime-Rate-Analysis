@@ -23,3 +23,7 @@ git clone https://github.com/kalyan4133/crime-rate-analysis.git
 cd crime-rate-analysis
 pip install -r requirements.txt
 python analysis.py
+```
+📊 Results
+Identified high-crime areas and peak times.
+Provided actionable insights for prevention strategies.
